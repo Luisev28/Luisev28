@@ -18,5 +18,4 @@ Frases:
 <div>
 <a  href="https://www.instagram.com/luis.vitorino28/"><img src="https://img.shields.io/badge/Instagram-DD1C1A?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/luis-vitorino-b64099226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.ensinandoparacrianca.starter"> <img src="https://img.shields.io/badge/Google_Play-6633FF?style=for-the-badge&logo=google-play&logoColor=Black" /></a>
 </div>
