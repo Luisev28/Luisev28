@@ -2,7 +2,7 @@
 
 - Atualmente estou trabalhando com Projetos em uma empresa privada.
 - Aqui encontrará codigos de projetos em HTML,CSS,Javascript,Typecript.
-- Projetos usando os Frameworks -> Ionic, Electron.js, Angular.   
+- Projetos usando os Frameworks -> Ionic e Angular.   
 - Alguns scripts em powershell e Segurança da Informação.
 
 Frases:
